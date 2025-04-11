@@ -2,8 +2,10 @@
 
 <h3>Frontend Developer | React.js | Next.js </h3>
 
-Front-End Developer with a strong foundation in web development. Proficient in HTML, CSS, Bootstrap, Responsive Design, OOP in JavaScript, Ajax, JSON, API, Regex, jQuery, npm, Sass, TypeScript, React.js, and Next.js. Skilled in Agile methodologies and clean code practices.
-<br/> Passionate about creating scalable and responsive solutions for diverse web development challenges.
+Front-End Developer with expertise in React.js, Next.js, TypeScript, and JavaScript, along with proficiency in front-end frameworks such as Tailwind CSS, Material-UI, and Bootstrap. 
+<br/>Experienced in using development tools like Git, Yarn, npm, and webpack to streamline workflows and enhance productivity. 
+<br/>Well-versed in Agile methodologies and committed to clean code practices. 
+<br/>Passionate about building scalable, responsive, and efficient solutions to address diverse web development challenges.
 
 * 📍 I’m based in Mansoura, Egypt.
 * #### Contact me at:&nbsp;&nbsp;[shreefsheikh99@gmail.com](mailto:shreefsheikh99@gmail.com)
