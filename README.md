@@ -1,8 +1,9 @@
 <h1  > Hi, I am Sherif El Sheikh 👋</h1>
 
-<h3>Frontend Developer | React JS</h3>
+<h3>Frontend Developer | React.js | Next.js </h3>
 
-Front-End Developer with a strong foundation in web development. Learned HTML, CSS, Bootstrap, Responsive Design, OOP in JavaScript, Ajax, JSON, API, Regex, jQuery, npm, Sass, TypeScript, and React.js at Root Academy, a leading Academy for web development courses. Passionate about creating innovative and responsive solutions for various web development challenges.
+Front-End Developer with a strong foundation in web development. Learned HTML, CSS, Bootstrap, Responsive Design, OOP in JavaScript, Ajax, JSON, API, Regex, jQuery, npm, Sass, TypeScript, and React.js at Root Academy, a leading Academy for web development courses.
+Passionate about creating innovative and responsive solutions for various web development challenges.
 
 * 📍 I’m based in Mansoura, Egypt.
 * #### Contact me at:&nbsp;&nbsp;[shreefsheikh99@gmail.com](mailto:shreefsheikh99@gmail.com)
